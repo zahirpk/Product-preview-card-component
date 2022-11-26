@@ -37,6 +37,7 @@ main {
     padding-left: 1rem;
     padding-right: 1rem;
     background-color: var(--White);
+    border-radius: 10px;
 }
 
 figure img {
